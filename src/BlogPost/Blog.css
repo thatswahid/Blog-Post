@@ -1,0 +1,16 @@
+.form-container input {
+    margin-right: 10px;
+}
+
+.jumbotron {
+    background-color: aquamarine;
+}
+
+.btn {
+    background: azure;
+    border: 2px solid #865dad;
+}
+.card-img-top{
+    height: 150px;
+    object-fit: cover;
+}
